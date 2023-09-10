@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/priya_vimal_video_call/static/css/main.b23ad158.css",
+    "main.js": "/priya_vimal_video_call/static/js/main.878c5734.js",
+    "static/js/787.01df7834.chunk.js": "/priya_vimal_video_call/static/js/787.01df7834.chunk.js",
+    "index.html": "/priya_vimal_video_call/index.html",
+    "main.b23ad158.css.map": "/priya_vimal_video_call/static/css/main.b23ad158.css.map",
+    "main.878c5734.js.map": "/priya_vimal_video_call/static/js/main.878c5734.js.map",
+    "787.01df7834.chunk.js.map": "/priya_vimal_video_call/static/js/787.01df7834.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b23ad158.css",
+    "static/js/main.878c5734.js"
+  ]
+}
